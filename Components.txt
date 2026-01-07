@@ -1,0 +1,50 @@
+Project Name: Smart Home and Alert System (IoT)
+
+Hardware Project Name: Smart Home and Alert System (IoT)
+
+Hardware Components:
+1. Raspberry Pi Pico W (Wi-Fi enabled microcontroller)
+2. PIR Motion Sensor / IR Sensor
+3. Active Buzzer
+4. Breadboard
+5. Jumper Wires (Male-to-Male / Male-to-Female)
+6. USB Cable (for power and programming)
+
+Software Components:
+1. Thonny IDE
+2. MicroPython Firmware
+3. Twilio SMS API
+4. Wi-Fi Network
+5. GitHub (Version Control)
+
+Power Requirements:
+- 5V via USB (Pico W)
+- 3.3V for PIR / IR Sensor
+
+Optional Components:
+- LED (for visual alert)
+- Resistors (220Ω – 1kΩ)
+- Camera Module (for future enhancement)
+:
+1. Raspberry Pi Pico W (Wi-Fi enabled microcontroller)
+2. PIR Motion Sensor / IR Sensor
+3. Active Buzzer
+4. Breadboard
+5. Jumper Wires (Male-to-Male / Male-to-Female)
+6. USB Cable (for power and programming)
+
+Software Components:
+1. Thonny IDE
+2. MicroPython Firmware
+3. Twilio SMS API
+4. Wi-Fi Network
+5. GitHub (Version Control)
+
+Power Requirements:
+- 5V via USB (Pico W)
+- 3.3V for PIR / IR Sensor
+
+Optional Components:
+- LED (for visual alert)
+- Resistors (220Ω – 1kΩ)
+- Camera Module (for future enhancement)
