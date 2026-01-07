@@ -108,10 +108,36 @@ Twilio is used to send real-time SMS notifications when motion is detected.
 ---
 ## 📸 Project Demo Images
 ## Simulation / Code Execution (Thonny)
- ![Simulation](images/Simulation.png)
+ ![Simulation](Images/Simulation.png)
 ## Hardware Connection 
- ![Connection](images/Connection.png)
+ ![Connection](Images/Connection.png)
 ## SMS Alert Message (Twilio SMS)
- ![Alert](images/Alert.png)
+ ![Alert](Images/Alert.png)
 ## Final Smart Home View
- ![Final Home](images/Home.png)
+ ![Final Home](Images/Home.png)
+
+---
+## 🤝 Need Help?
+
+Have questions about hardware, MicroPython, Wi-Fi, or Twilio SMS?  
+👉 Feel free to **open an issue** — I’m happy to help 😊
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/VedikaPP">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vedika-phadatare/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:vdkphadtare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+⭐ If this project helped you, don’t forget to star the repo!
+
+---
+Made with ❤️ using Raspberry Pi Pico W & MicroPython 🚀
+
