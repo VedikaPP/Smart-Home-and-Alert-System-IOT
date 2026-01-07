@@ -127,7 +127,7 @@ Have questions about hardware, MicroPython, Wi-Fi, or Twilio SMS?
 <p align="center">
   <a href="https://github.com/VedikaPP">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
+  </a><br>
   <a href="https://www.linkedin.com/in/vedika-phadatare/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
