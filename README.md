@@ -106,10 +106,12 @@ Example Alert Message:
 Twilio is used to send real-time SMS notifications when motion is detected.
 
 ---
+## 📸 Project Demo Images
 ## Simulation / Code Execution (Thonny)
-
+ ![Simulation](images/Simulation.png)
 ## Hardware Connection 
-
-## SMS Alert Message
-
+ ![Connection](images/Connection.png)
+## SMS Alert Message (Twilio SMS)
+ ![Alert](images/Alert.png)
 ## Final Smart Home View
+ ![Final Home](images/Home.png)
